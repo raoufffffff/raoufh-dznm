@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "_id": "6873d74b4b453321c940d0ad",
+    "userId": "6873d6a32de741441cae9429",
+    "name": "Sexy",
+    "sTitel": "Y ub",
+    "price": 360,
+    "best": true,
+    "type": "",
+    "imgs": [
+      "https://i.ibb.co/SXw6PPdJ/1000543082.png"
+    ],
+    "date": "2025-07-13T15:56:59.324Z",
+    "__v": 0
+  }
+]
